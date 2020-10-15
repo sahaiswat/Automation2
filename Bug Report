@@ -1,0 +1,126 @@
+Bug 1
+**Describe the bug**
+The landing page text is incorrect 
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Enter username “ubiquity”
+3. Enter password “P@ss123#UbiQuity”
+4. Click on login button
+
+**Expected behavior**
+Once logged in, the user should be able to see a landing page with the text “Welcome to the Ubiquity Tester Test admin page.”
+
+**Actual behavior**
+The landing page text displayed is incorrect “Welcome to the Ubiquity Tester admin page.”
+
+Bug 2
+**Describe the bug**
+Landing page does not have Ubiquity logo 
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Enter username “ubiquity”
+3. Enter password “P@ss123#UbiQuity”
+4. Click on login button
+
+**Expected behavior**
+All pages should have Ubiquity logo.
+
+**Actual behavior**
+Landing page does not have Ubiquity log
+
+Bug 3
+**Describe the bug**
+Mobile field in EditProfile page accepts alphanumeric characters 
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Enter username “ubiquity”
+3. Enter password “P@ss123#UbiQuity”
+4. Click on login button 
+5. Click on edit profile button
+
+**Expected behavior**
+Mobile field in EditProfile page should only accept numbers
+
+**Actual behavior**
+Mobile field in EditProfile page accepts alphanumeric characters
+
+Bug 4
+**Describe the bug**
+Date of birth field in EditProfile page accepts alphanumeric characters 
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Enter username “ubiquity”
+3. Enter password “P@ss123#UbiQuity”
+4. Click on login button 
+5. Click on edit profile button
+
+**Expected behavior**
+Mobile field in EditProfile page should only accept numbers
+
+**Actual behavior**
+Mobile field in EditProfile page accepts alphanumeric characters
+
+Bug 5
+**Describe the bug**
+Email field in EditProfile page does not throw error for incorrect formats
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Enter username “ubiquity”
+3. Enter password “P@ss123#UbiQuity”
+4. Click on login button 
+5. Click on edit profile button
+
+**Expected behavior**
+Email field in EditProfile page should accept correct email formats for eg "abc@gmail.com"
+
+**Actual behavior**
+Email field in EditProfile page does not throw valiadtion error for incorrect formats
+
+Bug 6
+**Describe the bug**
+Landing page placeholder content text colour is inconsistent 
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Enter username “ubiquity”
+3. Enter password “P@ss123#UbiQuity”
+4. Click on login button 
+5. Observe the placeholder content
+
+**Expected behavior**
+All the text in the plceholder content should be of consistent colour.
+
+**Actual behavior**
+"Multi-channel marketing." text is in bold
+
+Bug 7
+**Describe the bug**
+The Ubiquity logo on home page is clickable whereas the logo on edit profile page is not. The behaviour should be consistent on all the pages.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Login to the application “http://54.253.214.197:8081/”
+2. Click on the Ubiquity logo 
+3. Relogin to the application "http://54.253.214.197:8081/" 
+4. Enter username “ubiquity”
+5. Enter password “P@ss123#UbiQuity”
+6. Click on login button 
+7. Click on edit profile button
+8. Observe the logo
+
+**Expected behavior**
+The logo behaviour should be consistent on all the pages.
+
+**Actual behavior**
+The Ubiquity logo on home page is clickable whereas the logo on edit profile page is not. The behaviour should be consistent on all the pages.
