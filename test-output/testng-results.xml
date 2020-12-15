@@ -2,48 +2,48 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10795" started-at="2020-10-16T00:51:56 NZDT" finished-at="2020-10-16T00:52:07 NZDT">
+  <suite name="Default suite" duration-ms="12283" started-at="2020-11-09T19:15:40 NZDT" finished-at="2020-11-09T19:15:52 NZDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10795" started-at="2020-10-16T00:51:56 NZDT" finished-at="2020-10-16T00:52:07 NZDT">
+    <test name="Default test" duration-ms="12283" started-at="2020-11-09T19:15:40 NZDT" finished-at="2020-11-09T19:15:52 NZDT">
       <class name="com.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="setUp" is-config="true" duration-ms="3112" started-at="2020-10-16T00:51:56 NZDT" finished-at="2020-10-16T00:52:00 NZDT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="setUp" is-config="true" duration-ms="4408" started-at="2020-11-09T19:15:40 NZDT" finished-at="2020-11-09T19:15:44 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LogoisDisplayed()[pri:1, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="LogoisDisplayed" duration-ms="66" started-at="2020-10-16T00:52:00 NZDT" description="Verify the logo is displayed" finished-at="2020-10-16T00:52:00 NZDT">
+        <test-method status="PASS" signature="LogoisDisplayed()[pri:1, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="LogoisDisplayed" duration-ms="68" started-at="2020-11-09T19:15:44 NZDT" description="Verify the logo is displayed" finished-at="2020-11-09T19:15:44 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogoisDisplayed -->
-        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="CloseApplication" is-config="true" duration-ms="606" started-at="2020-10-16T00:52:00 NZDT" finished-at="2020-10-16T00:52:00 NZDT">
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="CloseApplication" is-config="true" duration-ms="643" started-at="2020-11-09T19:15:44 NZDT" finished-at="2020-11-09T19:15:45 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="setUp" is-config="true" duration-ms="2542" started-at="2020-10-16T00:52:00 NZDT" finished-at="2020-10-16T00:52:03 NZDT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="setUp" is-config="true" duration-ms="2732" started-at="2020-11-09T19:15:45 NZDT" finished-at="2020-11-09T19:15:48 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoginPageTitleTest()[pri:2, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="LoginPageTitleTest" duration-ms="9" started-at="2020-10-16T00:52:03 NZDT" description="Verify login Page Title is displayed" finished-at="2020-10-16T00:52:03 NZDT">
+        <test-method status="PASS" signature="LoginPageTitleTest()[pri:2, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="LoginPageTitleTest" duration-ms="7" started-at="2020-11-09T19:15:48 NZDT" description="Verify login Page Title is displayed" finished-at="2020-11-09T19:15:48 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPageTitleTest -->
-        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="CloseApplication" is-config="true" duration-ms="628" started-at="2020-10-16T00:52:03 NZDT" finished-at="2020-10-16T00:52:03 NZDT">
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="CloseApplication" is-config="true" duration-ms="623" started-at="2020-11-09T19:15:48 NZDT" finished-at="2020-11-09T19:15:48 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="setUp" is-config="true" duration-ms="2523" started-at="2020-10-16T00:52:03 NZDT" finished-at="2020-10-16T00:52:06 NZDT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="setUp" is-config="true" duration-ms="2639" started-at="2020-11-09T19:15:48 NZDT" finished-at="2020-11-09T19:15:51 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="LoginTest" duration-ms="396" started-at="2020-10-16T00:52:06 NZDT" description="Verify user is able to login" finished-at="2020-10-16T00:52:06 NZDT">
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="LoginTest" duration-ms="458" started-at="2020-11-09T19:15:51 NZDT" description="Verify user is able to login" finished-at="2020-11-09T19:15:51 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="CloseApplication" is-config="true" duration-ms="867" started-at="2020-10-16T00:52:06 NZDT" finished-at="2020-10-16T00:52:07 NZDT">
+        <test-method status="PASS" signature="CloseApplication()[pri:0, instance:com.qa.testcases.LoginPageTest@d44fc21]" name="CloseApplication" is-config="true" duration-ms="639" started-at="2020-11-09T19:15:51 NZDT" finished-at="2020-11-09T19:15:52 NZDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
       </class> <!-- com.qa.testcases.LoginPageTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
